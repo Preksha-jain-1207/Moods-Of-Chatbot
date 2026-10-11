@@ -12,7 +12,6 @@ huggingface_hub
 transformers
 sentence-transformers
 
-# Environment & Utilities
 python-dotenv
 
 streamlit
