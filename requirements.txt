@@ -1,0 +1,16 @@
+# Core LangChain Packages
+langchain
+langchain-community
+langchain-core
+
+# Google Gemini Integration
+langchain-google-genai
+
+# Hugging Face Integration
+langchain-huggingface
+huggingface_hub
+transformers
+sentence-transformers
+
+# Environment & Utilities
+python-dotenv
